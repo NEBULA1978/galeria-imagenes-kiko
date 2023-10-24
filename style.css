@@ -37,3 +37,12 @@ img {
         flex: 100%;
     }
 }
+
+textarea {
+    resize: vertical;
+    max-height: 100px;
+    min-height: 16px;
+    width: 250px;
+    /* no me reconoce */
+    /* form-sizing: content; */
+}
